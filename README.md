@@ -2,7 +2,7 @@
 
 
 
-\*\*Data Engineer / Machine Learning Engineer\*\*
+Data Engineer / Machine Learning Engineer
 
 
 
@@ -14,47 +14,47 @@ I build data pipelines, analytics-ready datasets and applied ML systems with a f
 
 
 
-\### Data \& Analytics Engineering
+\### Data and Analytics Engineering
 
 
 
-\- \[analytics-engineering-sensor-platform](https://github.com/AmmarHafeez/analytics-engineering-sensor-platform)  
+\[Analytics Engineering Sensor Platform](https://github.com/AmmarHafeez/analytics-engineering-sensor-platform)  
 
-&#x20; Local analytics engineering workflow for sensor data with SQL-style modeling, DuckDB warehouse tables, fact/dimension/mart layers and data quality checks.
-
-
-
-\- \[cloud-data-lake-pipeline-platform](https://github.com/AmmarHafeez/cloud-data-lake-pipeline-platform)  
-
-&#x20; Local cloud-style data lake pipeline with bronze/silver/gold layers, Parquet outputs, rejected-record handling, quality reports, Docker and CI.
+Local analytics engineering workflow for sensor data with SQL-style modeling, DuckDB warehouse tables, fact and dimension tables, mart layers and data quality checks.
 
 
 
-\- \[emg-data-platform](https://github.com/AmmarHafeez/emg-data-platform)  
+\[Cloud Data Lake Pipeline Platform](https://github.com/AmmarHafeez/cloud-data-lake-pipeline-platform)  
 
-&#x20; Data ingestion and orchestration workflow for EMG-style signal data and reproducible processing pipelines.
-
-
-
-\### Applied ML \& MLOps
+Local cloud-style data lake pipeline with bronze, silver and gold layers, Parquet outputs, rejected-record handling, quality reports, Docker and CI.
 
 
 
-\- \[energy-forecasting-anomaly-platform](https://github.com/AmmarHafeez/energy-forecasting-anomaly-platform)  
+\[EMG Data Platform](https://github.com/AmmarHafeez/emg-data-platform)  
 
-&#x20; Time-series forecasting and anomaly detection platform with evaluation, backtesting, API serving, Docker and CI.
-
-
-
-\- \[industrial-maintenance-mlops](https://github.com/AmmarHafeez/industrial-maintenance-mlops)  
-
-&#x20; Predictive-maintenance ML workflow with training, evaluation, serving and reproducibility components.
+Data ingestion and orchestration workflow for EMG-style signal data and reproducible processing pipelines.
 
 
 
-\- \[neurogesture-edge-fl](https://github.com/AmmarHafeez/neurogesture-edge-fl)  
+\### Applied ML and MLOps
 
-&#x20; Federated and edge-oriented ML workflow for gesture-recognition concepts using biosignal-inspired time-series data.
+
+
+\[Energy Forecasting Anomaly Platform](https://github.com/AmmarHafeez/energy-forecasting-anomaly-platform)  
+
+Time-series forecasting and anomaly detection platform with evaluation, backtesting, API serving, Docker and CI.
+
+
+
+\[Industrial Maintenance MLOps](https://github.com/AmmarHafeez/industrial-maintenance-mlops)  
+
+Predictive-maintenance ML workflow with training, evaluation, serving and reproducibility components.
+
+
+
+\[Neurogesture Edge FL](https://github.com/AmmarHafeez/neurogesture-edge-fl)  
+
+Federated and edge-oriented ML workflow for gesture-recognition concepts using biosignal-inspired time-series data.
 
 
 
@@ -62,9 +62,9 @@ I build data pipelines, analytics-ready datasets and applied ML systems with a f
 
 
 
-\- \[document-intelligence-rag-platform](https://github.com/AmmarHafeez/document-intelligence-rag-platform)  
+\[Document Intelligence RAG Platform](https://github.com/AmmarHafeez/document-intelligence-rag-platform)  
 
-&#x20; Local document intelligence system with TXT/Markdown/PDF ingestion, TF-IDF retrieval, retrieval evaluation, grounded answering and FastAPI serving.
+Local document intelligence system with TXT, Markdown and PDF ingestion, TF-IDF retrieval, retrieval evaluation, grounded answering and FastAPI serving.
 
 
 
@@ -72,15 +72,33 @@ I build data pipelines, analytics-ready datasets and applied ML systems with a f
 
 
 
-\- \*\*Data Engineering:\*\* Python, SQL, ETL/ELT, data validation and batch pipelines
+Data Engineering  
 
-\- \*\*Analytics Engineering:\*\* DuckDB, dimensional modeling, fact/dimension tables, marts and quality checks
+Python, SQL, ETL/ELT, data validation and batch pipelines.
 
-\- \*\*Data Lake Workflows:\*\* Parquet, bronze/silver/gold layers, rejected-record handling and local pipeline reports
 
-\- \*\*Applied ML:\*\* time-series forecasting, anomaly detection, model evaluation and feature engineering
 
-\- \*\*MLOps / Serving:\*\* FastAPI, Docker, GitHub Actions and reproducible command-line workflows
+Analytics Engineering  
+
+DuckDB, dimensional modeling, fact and dimension tables, marts and quality checks.
+
+
+
+Data Lake Workflows  
+
+Parquet, bronze/silver/gold layers, rejected-record handling and local pipeline reports.
+
+
+
+Applied ML  
+
+Time-series forecasting, anomaly detection, model evaluation and feature engineering.
+
+
+
+MLOps and Serving  
+
+FastAPI, Docker, GitHub Actions and reproducible command-line workflows.
 
 
 
