@@ -1,3 +1,5 @@
+@'
+
 \# Ammar Hafeez
 
 
@@ -72,31 +74,31 @@ Local document intelligence system with TXT, Markdown and PDF ingestion, TF-IDF 
 
 
 
-Data Engineering  
+\*\*Data Engineering\*\*  
 
 Python, SQL, ETL/ELT, data validation and batch pipelines.
 
 
 
-Analytics Engineering  
+\*\*Analytics Engineering\*\*  
 
 DuckDB, dimensional modeling, fact and dimension tables, marts and quality checks.
 
 
 
-Data Lake Workflows  
+\*\*Data Lake Workflows\*\*  
 
 Parquet, bronze/silver/gold layers, rejected-record handling and local pipeline reports.
 
 
 
-Applied ML  
+\*\*Applied ML\*\*  
 
 Time-series forecasting, anomaly detection, model evaluation and feature engineering.
 
 
 
-MLOps and Serving  
+\*\*MLOps and Serving\*\*  
 
 FastAPI, Docker, GitHub Actions and reproducible command-line workflows.
 
@@ -107,4 +109,6 @@ FastAPI, Docker, GitHub Actions and reproducible command-line workflows.
 
 
 I prefer small, testable systems with clear inputs and outputs. My repositories are built around reproducible commands, documented architecture, automated tests, CI checks and clean artifact handling so generated data, models, reports and runtime files stay outside version control.
+
+'@ | Set-Content README.md -Encoding utf8
 
